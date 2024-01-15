@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TBC_Events</string>
+    <string name="delete">Delete</string>
+    <string name="user_event">User Event</string>
+</resources>
